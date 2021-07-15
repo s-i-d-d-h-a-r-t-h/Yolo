@@ -1,6 +1,8 @@
 # YoloV3:
 You Only Look Once.
 
+![YoloV3](https://user-images.githubusercontent.com/62711040/125750520-a8f81573-0988-435d-9681-bbf051ce4d2f.jpg)
+
 Detection of koala bears using yolo v3 algorithm.
 
 Configuration:
@@ -13,4 +15,4 @@ Here are some samples of the output of the model:
 
 ![Image4](https://user-images.githubusercontent.com/62711040/123517783-8b0ecd00-d6c0-11eb-9419-09629cfda7fe.png)
 ![Image1](https://user-images.githubusercontent.com/62711040/123517766-78949380-d6c0-11eb-8a8b-412716505ffa.png)
-![Image3](https://user-images.githubusercontent.com/62711040/123517773-7fbba180-d6c0-11eb-84a5-4c7993c93f2b.png)
+
