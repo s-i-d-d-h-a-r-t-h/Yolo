@@ -1,4 +1,6 @@
-# Yolo
+# YoloV3:
+You Only Look Once.
+
 Detection of koala bears using yolo v3 algorithm.
 
 Configuration:
